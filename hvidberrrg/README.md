@@ -1,5 +1,5 @@
 ---
-description: Here goes the description
+description: Here goes the description...
 ---
 
 # Links
