@@ -1,7 +1,6 @@
 ---
-description: 'To paraphrase Mike and Ike: Throughout this site ''z'' is pronounced ''zed''.'
+description: This page provides a collection of links related to quantum computing
 ---
 
-# Is that all there is?
+# Links
 
-Welcome to the ramblings of a middle aged computer scientist trying to get a grasp of quantum computing.&#x20;
