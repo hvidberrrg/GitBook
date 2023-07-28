@@ -11,3 +11,5 @@ description: Flotsam and jetsam
 [Matrix exponential](https://en.wikipedia.org/wiki/Matrix\_exponential)
 
 [Measurement in quantum mechanics](https://inst.eecs.berkeley.edu/\~cs191/fa14/lectures/lecture89.pdf)
+
+[Quantum mechanics quick reference](https://cs.au.dk/\~ivan/QMref.pdf)
