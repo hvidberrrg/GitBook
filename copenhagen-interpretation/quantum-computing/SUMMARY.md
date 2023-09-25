@@ -1,8 +1,9 @@
 # Table of contents
 
-* [Is that all there is?](README.md)
+* [🍸 Is that all there is?](README.md)
 * [🔗 Links](<README (1).md>)
   * [🗞 Blogs &  news](links/blogs-and-news/README.md)
+    * [Quantum Frontiers](links/blogs-and-news/quantum-frontiers.md)
     * [Quantum Zeitgeist](links/blogs-and-news/quantum-zeitgeist.md)
     * [Shtetl-Optimized](links/blogs-and-news/shtetl-optimized.md)
   * [📖 Online courses](links/online-courses/README.md)
