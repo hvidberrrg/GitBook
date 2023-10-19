@@ -7,6 +7,7 @@
     * [Quantum Zeitgeist](links/blogs-and-news/quantum-zeitgeist.md)
     * [Shtetl-Optimized](links/blogs-and-news/shtetl-optimized.md)
   * [📖 Online courses](links/online-courses/README.md)
+    * [Azure Quantum](links/online-courses/azure-quantum.md)
     * [MIT Open Learning Library](links/online-courses/page-2.md)
     * [Perimeter Institute Recorded Seminar Archive](links/online-courses/perimeter-institute-recorded-seminar-archive.md)
   * [🗒 Lecture notes](links/lecture-notes.md)
