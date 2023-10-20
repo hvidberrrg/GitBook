@@ -13,3 +13,5 @@ description: Flotsam and jetsam
 [Measurement in quantum mechanics](https://inst.eecs.berkeley.edu/\~cs191/fa14/lectures/lecture89.pdf)
 
 [Quantum mechanics quick reference](https://cs.au.dk/\~ivan/QMref.pdf)
+
+[Quirk - A drag-and-drop quantum circuit simulator](https://algassert.com/quirk)
