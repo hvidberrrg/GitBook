@@ -14,3 +14,4 @@
   * [🗒️ Lecture notes](links/lecture-notes.md)
   * [💥 Miscellaneous](links/miscellaneous.md)
 * [📚 Bibliography](bibliography.md)
+* [💡 Glossary of quantum computing](glossary-of-quantum-computing.md)
